@@ -501,7 +501,8 @@ var data = [
     }
   ]; 
 
-//Variables for pagination
+//Variables for pagination 
+var array = [];
 var len =  data.length;
  var tableSize = 10; 
  var startRow = 1;
